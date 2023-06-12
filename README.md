@@ -7,7 +7,7 @@ Team Machine Learning on Jual.in:
 - [Fhillipus Mahendra](https://www.linkedin.com/in/fhlpmah/)
 
 ## Dataset  
-We import the dataset from kaggle.com and web scrapping in dataumkm.com and Google Image
+We import the dataset from kaggle.com and web scrapping in [dataumkm.com](dataumkm.com) and Google Image
 - [Fashion Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 
 ## Library  
