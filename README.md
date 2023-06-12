@@ -3,7 +3,7 @@ Machine learning model for image classification and location-based recommendatio
 
 ## Contributing
 Team Machine Learning on Jual.in:  
-- [Satriadi Putra Santika](https://www.linkedin.com/in/dwiwekanaratama/spsantika/)
+- [Satriadi Putra Santika](https://www.linkedin.com/in/spsantika/)
 - [Fhillipus Mahendra](https://www.linkedin.com/in/fhlpmah/)
 
 ## Dataset  
